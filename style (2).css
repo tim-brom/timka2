@@ -9,9 +9,10 @@ body {
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
-  background: url("фон сайта.jpg");
 }
-
+header{
+    text-align: center
+}
 .container {
   max-width: 928px;
   margin: 0 auto;

@@ -9,6 +9,7 @@ body {
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+    background: url(глеб.jpg);
 }
 
 .container {
